@@ -1,0 +1,8 @@
+{
+  "name": "D.Parks Plumbing & Heating",
+  "description": "Premium professional plumbing and heating services website for D.Parks, based in Beverley, East Yorkshire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
